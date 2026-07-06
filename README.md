@@ -12,5 +12,6 @@ I obtained my master’s degree majoring in Power Engineering and Engineering Th
 
 I will pursue my PhD degree at the School of Automation, Wuhan University of Technology starting from September 2026.
 
-![Uploading image.png…]()
+<img width="1366" height="876" alt="2152394f65701013a6ce15a02c924dd2" src="https://github.com/user-attachments/assets/d83169e0-0fb6-449c-a66d-457fd7f9ae78" />
+
 
