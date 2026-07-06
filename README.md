@@ -1,6 +1,10 @@
 Personal-Information-Introduction
 Education History 
 
+name:Xunlang Luo
+email address: lang_lxl@163.com
+
+
 I received my bachelor’s degree in Computer Science and Technology from the School of Computer Science and Computing, Wuhan University of Science and Technology.
 
 <img width="474" height="664" alt="image" src="https://github.com/user-attachments/assets/c8cbb059-11ac-4f0e-9a46-d3b92d207c96" />
