@@ -21,7 +21,7 @@ Previous education:
 
 <img width="549" height="733" alt="image" src="https://github.com/user-attachments/assets/7d078443-a83c-480a-986c-00e16ca084f8" />
 
-I will pursue my PhD degree at the School of Automation, Wuhan University of Technology starting from September 2026.
+- I will pursue my PhD degree at the School of Automation, Wuhan University of Technology starting from September 2026.
 
 <img width="1366" height="876" alt="2152394f65701013a6ce15a02c924dd2" src="https://github.com/user-attachments/assets/d83169e0-0fb6-449c-a66d-457fd7f9ae78" />
 
