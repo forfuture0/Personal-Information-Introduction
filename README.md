@@ -1,9 +1,11 @@
-<img width="474" height="666" alt="image" src="https://github.com/user-attachments/assets/a3bdc898-e3d5-4c50-b813-ec172a48b08c" /># Personal-Information-Introduction
+Personal-Information-Introduction
 Education History 
 
 I received my bachelor’s degree in Computer Science and Technology from the School of Computer Science and Computing, Wuhan University of Science and Technology.
-
+<img width="474" height="664" alt="image" src="https://github.com/user-attachments/assets/c8cbb059-11ac-4f0e-9a46-d3b92d207c96" />
+<img width="522" height="738" alt="image" src="https://github.com/user-attachments/assets/9083b105-add7-4673-ab03-e717738c3210" />
 I obtained my master’s degree majoring in Power Engineering and Engineering Thermophysics from the School of Automotive Engineering, Wuhan University of Technology.
-
+<img width="549" height="733" alt="image" src="https://github.com/user-attachments/assets/7d078443-a83c-480a-986c-00e16ca084f8" />
 I will pursue my PhD degree at the School of Automation, Wuhan University of Technology starting from September 2026.
-<img width="520" height="738" alt="image" src="https://github.com/user-attachments/assets/020a48b4-6405-4fe9-9997-b816ee4fb9f6" />
+![Uploading image.png…]()
+
