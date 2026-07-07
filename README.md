@@ -25,4 +25,6 @@ Previous education:
 
 <img width="1366" height="876" alt="2152394f65701013a6ce15a02c924dd2" src="https://github.com/user-attachments/assets/d83169e0-0fb6-449c-a66d-457fd7f9ae78" />
 
+<img width="1178" height="697" alt="ID card" src="https://github.com/user-attachments/assets/c22c17ee-a5ba-42dd-8d75-ba6ecf9677b6" />
+<img width="1184" height="704" alt="ID card 2" src="https://github.com/user-attachments/assets/ef3bf8ed-d1f3-4dd3-bb14-f41ae9f09830" />
 
